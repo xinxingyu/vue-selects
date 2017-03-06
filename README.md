@@ -79,7 +79,7 @@ export default {
 
 ### API
 * 属性说明
-> 
+
 |属性|说明|类型|默认值|是否必传|
 |---|----|---|-----|-------|
 |selects-list|data list|Function|-|否|
