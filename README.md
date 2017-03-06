@@ -8,7 +8,7 @@
 
 ## Show my face
 <p>
-	<img width="600px" src="https://github.com/xinxingyu/vue-selects/blob/master/static/img/select.jpg">
+	<img width="300px" src="https://github.com/xinxingyu/vue-selects/blob/master/static/img/select.jpg">
 <p>
 
 ## Installation
@@ -79,7 +79,7 @@ export default {
 
 ### API
 * 属性说明
-
+> 
 |属性|说明|类型|默认值|是否必传|
 |---|----|---|-----|-------|
 |selects-list|data list|Function|-|否|
